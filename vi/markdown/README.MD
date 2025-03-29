@@ -26,7 +26,7 @@ https://khoingexe.github.io/webutilities/markdown/viewer.html?url=URL_FILE_MD&ti
 
 1. Xem README.md từ GitHub:
 ```
-https://khoingexe.github.io/webutilities/markdown/viewer.html?url=https://raw.githubusercontent.com/khoingexe/webutilities/main/README.MD&title=README
+https://khoingexe.github.io/webutilities/markdown/viewer.html?url=https://raw.githubusercontent.com/khoingexe/webutilities/main/README-VI.MD&title=README
 ```
 
 2. Xem file markdown bất kỳ:
