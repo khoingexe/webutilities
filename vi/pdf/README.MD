@@ -15,11 +15,11 @@
 ## **🚀 Cách Dùng (Dễ Ợt)**  
 1. **Truyền link PDF vào URL**  
    ```url
-   https://yourdomain.com?url=https://example.com/cute-cats.pdf
+   https://khoingexe.github.io/webutilities/vi/pdf/viewer.html?url=https://example.com/cute-cats.pdf
    ```
 2. **Tuỳ chỉnh tiêu đề (nếu thích)**  
    ```url
-   https://yourdomain.com?url=https://example.com/cute-cats.pdf&title=Mèo%20Dễ%20Thương
+   https://khoingexe.github.io/webutilities/vi/pdf/viewer.html?url=https://example.com/cute-cats.pdf&title=Mèo%20Dễ%20Thương
    ```
 3. **Chuyển chế độ sáng/tối** - Bấm nút **🌙/☀️** góc phải để "đổi gió"  
 

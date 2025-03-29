@@ -19,19 +19,19 @@ Trình xem Markdown trực tuyến đơn giản với chế độ sáng/tối, h
 Truy cập trang web với các tham số URL:
 
 ```
-https://khoingexe.github.io/webutilities/markdown/viewer.html?url=URL_FILE_MD&title=TIÊU_ĐỀ
+https://khoingexe.github.io/webutilities/vi/markdown/viewer.html?url=URL_FILE_MD&title=TIÊU_ĐỀ
 ```
 
 ### Ví dụ:
 
 1. Xem README.md từ GitHub:
 ```
-https://khoingexe.github.io/webutilities/markdown/viewer.html?url=https://raw.githubusercontent.com/khoingexe/webutilities/main/README-VI.MD&title=README
+https://khoingexe.github.io/webutilities/vi/markdown/viewer.html?url=https://raw.githubusercontent.com/khoingexe/webutilities/main/README-VI.MD&title=README
 ```
 
 2. Xem file markdown bất kỳ:
 ```
-https://khoingexe.github.io/webutilities/markdown/viewer.html?url=https://example.com/document.md
+https://khoingexe.github.io/webutilities/vi/markdown/viewer.html?url=https://example.com/document.md
 ```
 
 ## Tham số URL
